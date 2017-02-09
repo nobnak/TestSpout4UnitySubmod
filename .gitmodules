@@ -1,0 +1,3 @@
+[submodule "Assets/Packages/Spout"]
+	path = Assets/Packages/Spout
+	url = https://github.com/nobnak/Spout4UnitySubmod.git
